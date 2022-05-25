@@ -1,0 +1,1 @@
+D:/Proyectos/THD_Ecoembes/codigo/THD/THD_venv/Scripts/python D:/Tensorflow/models/research/object_detection/model_main_tf2.py --pipeline_config_path=D:/Proyectos/THD_Ecoembes/codigo/THD/Tensorflow/experiments/training/ssd_resnet50_v1_fpn_1024x1024_coco17_tpu-8/THD_3c.config --model_dir=D:/Proyectos/THD_Ecoembes/codigo/THD/Tensorflow/experiments/evaluation --alsologtostderr
